@@ -1,6 +1,6 @@
 cask "duckpad" do
-  version "0.18.0"
-  sha256 "403e506daec6ddb992aad652dcdeadfa68308b3b49150adb3c1f9780fcc7d267"
+  version "0.18.1"
+  sha256 "d33466534d2519b82ba06240dc67c466191a6a58df3558c238741634d09ef6de"
 
   url "https://github.com/namJeongwan/duckpad/releases/download/v#{version}/Duckpad-#{version}-universal.zip"
   name "Duckpad"
